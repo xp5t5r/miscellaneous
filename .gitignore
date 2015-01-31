@@ -52,3 +52,7 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Topfield and MPEG2 files
+*.rec
+*.ts
